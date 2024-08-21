@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kauê Rocha
 
-<!--
-**KaueRoccha/KaueRoccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Gestão da Tecnologia da Informação - UNIP 
 
-Here are some ideas to get you started:
+  <img src="https://i.imgur.com/zb8Ybms.gif" alt="Descrição do GIF">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ 
+ ## Conecte-se comigo
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roccha_kaue/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-gomes-b82847186/)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaueroccha&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+ 
+## GitHub Stats
+![KaueRoccha GitHub stats](https://github-readme-stats.vercel.app/api?username=kaueroccha&theme=midnight-purple&show_icons=true)
+
+
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaueroccha&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
