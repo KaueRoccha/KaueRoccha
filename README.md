@@ -1,6 +1,6 @@
 # Kauê Rocha
 
-### Gestão da Tecnologia da Informação - UNIP 
+### 👨‍💻 Técnico de Informática | 📚 Estudante de Gestão da Tecnologia da Informação
 
   <img src="https://i.imgur.com/zb8Ybms.gif" alt="Descrição do GIF">
 </p>
