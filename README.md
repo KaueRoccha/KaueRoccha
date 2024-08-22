@@ -4,9 +4,6 @@
 
 <p align="justify">I am pursuing a degree in Information Technology Management at Universidade Paulista (UNIP) and working in the technical support field, where I apply my practical skills daily. At the same time, I am deepening my knowledge in development and programming, with a solid foundation in languages such as Java, C, and C++.
 
- <img src="https://i.imgur.com/zb8Ybms.gif" alt="Descrição do GIF">
-</p>
-
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0D65B2&color:FFF)](https://www.linkedin.com/in/kaue-gomes-b82847186/)
