@@ -1,18 +1,23 @@
-# Kauê Rocha
+<h1>
+    <span>Kauê Rocha</span>
+</h1>
 
-### Gestão da Tecnologia da Informação - UNIP
+<p align="justify">I am pursuing a degree in Information Technology Management at Universidade Paulista (UNIP) and working in the technical support field, where I apply my practical skills daily. At the same time, I am deepening my knowledge in development and programming, with a solid foundation in languages such as Java, C, and C++.
 
-  <img src="https://i.imgur.com/zb8Ybms.gif" alt="Descrição do GIF">
+ <img src="https://i.imgur.com/zb8Ybms.gif" alt="Descrição do GIF">
 </p>
 
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- 
- ## Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roccha_kaue/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-gomes-b82847186/)
+### Connect with me
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaueroccha&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
- 
-## GitHub Stats
-![KaueRoccha GitHub stats](https://github-readme-stats.vercel.app/api?username=kaueroccha&theme=midnight-purple&show_icons=true)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0D65B2&color:FFF)](https://www.linkedin.com/in/kaue-gomes-b82847186/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0D65B2&color:FFF)](https://www.instagram.com/roccha_kaue/)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaueRoccha&theme=midnight-purple&background=000&card_width=465&border_radius=3&border=0000&dates=FFF&card_height=171)](https://git.io/streak-stats)     
+
+### GitHub Stats
+
+![KaueRoccha GitHub stats](https://github-readme-stats.vercel.app/api?username=kaueroccha&theme=midnight-purple&border_color=000&card_height=171&show_icons=true&hide_title=true)
+
+### Most used programming languages.
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaueRoccha&layout=compact&bg_color=000&border_color=000&title_color=FFF&border_radius=3&text_color=FFF)
