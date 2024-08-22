@@ -1,8 +1,12 @@
-<h1>
-    <span>Kauê Rocha</span>
-</h1>
+# Kauê Rocha
 
-<p align="justify">I am pursuing a degree in Information Technology Management at Universidade Paulista (UNIP) and working in the technical support field, where I apply my practical skills daily. At the same time, I am deepening my knowledge in development and programming, with a solid foundation in languages such as Java, C, and C++.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
+
+<p align="left">
+  👋 <strong>About me</strong>
+</p>
+
+I am pursuing a degree in Information Technology Management at Universidade Paulista (UNIP) and working in the technical support field, where I apply my practical skills daily. At the same time, I am deepening my knowledge in development and programming, with a solid foundation in languages such as Java, C, and C++.
 
 ### Connect with me
 
