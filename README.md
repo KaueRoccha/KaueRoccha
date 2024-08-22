@@ -8,10 +8,14 @@
 
 I am pursuing a degree in Information Technology Management at Universidade Paulista (UNIP) and working in the technical support field, where I apply my practical skills daily. At the same time, I am deepening my knowledge in development and programming, with a solid foundation in languages such as Java, C, and C++.
 
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0D65B2&color:FFF)](https://www.linkedin.com/in/kaue-gomes-b82847186/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0D65B2&color:FFF)](https://www.instagram.com/roccha_kaue/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-gomes-b82847186/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roccha_kaue/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaueRoccha&theme=midnight-purple&background=000&card_width=465&border_radius=3&border=0000&dates=FFF&card_height=171)](https://git.io/streak-stats)     
 
