@@ -14,7 +14,7 @@ I am pursuing a degree in Information Technology Management at Universidade Paul
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-gomes-b82847186/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-rocha-gomes/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roccha_kaue/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaueRoccha&theme=midnight-purple&background=000&card_width=465&border_radius=3&border=0000&dates=FFF&card_height=171)](https://git.io/streak-stats)     
