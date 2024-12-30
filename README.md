@@ -6,7 +6,7 @@
   👋 <strong>About me</strong>
 </p>
 
-I am pursuing a degree in Information Technology Management at Universidade Paulista (UNIP) and working in the technical support field, where I apply my practical skills daily. At the same time, I am deepening my knowledge in development and programming, with a solid foundation in languages such as Java, C, and C++.
+I have a degree in Information Technology Management from UNIP and, currently, I work as a Systems Analyst, tackling technical challenges and always striving to improve system performance. I am constantly seeking new knowledge in development and programming to stay up to date and provide increasingly efficient solutions.
 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
