@@ -6,7 +6,7 @@
   👋 <strong>About me</strong>
 </p>
 
-I have a degree in Information Technology Management from UNIP and, currently, I work as a Systems Analyst, tackling technical challenges and always striving to improve system performance. I am constantly seeking new knowledge in development and programming to stay up to date and provide increasingly efficient solutions.
+I hold a degree in Information Technology Management from Paulista University (São Paulo, Brazil) and a postgraduate degree in Network Security from Santo Amaro University (São Paulo, Brazil). Currently, I work as a Senior Systems Analyst, addressing technical challenges and continuously striving to enhance system performance. I am committed to expanding my knowledge in development and programming to stay current and deliver efficient, secure, and high-quality solutions aligned with industry best practices.
 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
