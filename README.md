@@ -1,4 +1,4 @@
-# Kauê Rocha
+# Kauê Rocha Gomes
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
